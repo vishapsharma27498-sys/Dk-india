@@ -1,2 +1,0 @@
-# Dk-india
-Shopping site
